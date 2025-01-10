@@ -24,7 +24,7 @@ const handleError = () => clearError({ redirect: '/' });
         
         <!-- Back to Home Button -->
         <NuxtLink to="/" class="px-6 py-3 text-white bg-dodgeroll-gold rounded-md text-lg">
-            Go Home
+            Go Home plz
         </NuxtLink>
     </section>
 </template>
